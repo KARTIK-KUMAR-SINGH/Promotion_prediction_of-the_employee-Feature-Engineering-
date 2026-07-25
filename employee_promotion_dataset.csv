@@ -1,0 +1,251 @@
+Age,Experience,Education,City,Department,WorkType,PerformanceScore,ProjectsCompleted,Overtime,Gender,Salary,Promoted
+28,5,High School,Mumbai,HR,Government,70.0,2,No,Male,24376.0,No
+35,14,,Hyderabad,HR,Startup,54.0,7,No,Female,64412.0,No
+31,8,Bachelor,Bangalore,HR,Government,,2,No,Male,56763.0,No
+59,38,Diploma,Pune,Sales,Private,69.0,12,Yes,Female,124850.0,No
+25,3,High School,Bangalore,IT,Government,79.0,14,No,Male,45530.0,No
+38,12,Master,Pune,IT,Government,,7,Yes,Female,87233.0,No
+56,33,Diploma,Delhi,HR,Private,76.0,2,Yes,Female,96967.0,No
+46,20,Master,,HR,Self-Employed,60.0,4,Yes,Female,107955.0,No
+58,36,Bachelor,Mumbai,Marketing,Startup,75.0,3,Yes,Male,,No
+45,21,Bachelor,Hyderabad,Finance,Private,74.0,3,No,Female,78455.0,No
+31,5,Bachelor,Pune,Finance,Government,66.0,9,Yes,Male,59052.0,No
+55,30,PhD,Delhi,Marketing,Self-Employed,71.0,15,Yes,Male,155894.0,No
+40,18,Diploma,Hyderabad,IT,Private,69.0,4,Yes,Female,77415.0,No
+54,30,Master,Mumbai,Marketing,Government,50.0,9,No,Female,131155.0,No
+49,27,High School,Delhi,Finance,Private,64.0,7,Yes,Male,79729.0,No
+23,2,Master,Hyderabad,HR,Self-Employed,67.0,15,Yes,Male,81111.0,No
+36,12,,Mumbai,IT,Private,65.0,13,No,Male,85224.0,No
+42,21,Master,Mumbai,HR,Government,62.0,14,Yes,Female,109012.0,No
+36,15,Master,Chennai,Marketing,Private,100.0,0,Yes,Male,78449.0,No
+51,27,Diploma,Delhi,,Startup,,0,No,Female,,No
+56,32,Bachelor,Mumbai,HR,Self-Employed,72.0,1,No,Male,98243.0,No
+53,28,PhD,Mumbai,IT,Private,76.0,5,Yes,Male,135307.0,No
+57,32,Diploma,Delhi,Marketing,Private,58.0,10,No,Male,107695.0,No
+46,20,High School,Bangalore,Sales,Self-Employed,79.0,2,Yes,Female,74848.0,No
+25,0,Bachelor,Bangalore,HR,Self-Employed,90.0,11,No,Male,52558.0,No
+40,14,Bachelor,Hyderabad,IT,Self-Employed,55.0,3,Yes,Female,63182.0,No
+56,33,High School,,HR,Self-Employed,76.0,8,No,Female,93864.0,No
+48,27,Master,Delhi,Finance,Government,88.0,8,Yes,Female,127077.0,Yes
+56,35,High School,Pune,HR,Private,80.0,4,No,Male,93170.0,No
+23,1,Master,Pune,HR,Private,58.0,11,No,Male,63157.0,No
+32,11,Master,,Operations,Self-Employed,,7,No,Male,76142.0,No
+23,1,Master,Mumbai,Sales,Self-Employed,59.0,9,Yes,Male,53775.0,No
+46,25,Diploma,,Finance,Startup,62.0,10,Yes,Male,90559.0,No
+37,12,,Chennai,Finance,Self-Employed,51.0,13,Yes,Female,,No
+23,2,Master,,Marketing,Government,68.0,10,No,Male,66240.0,No
+47,21,Diploma,Bangalore,Marketing,Government,75.0,6,No,Female,74102.0,No
+40,19,Bachelor,Bangalore,Finance,Government,57.0,10,No,Female,93288.0,No
+53,27,Bachelor,Mumbai,Operations,Private,78.0,9,No,Male,102896.0,No
+35,13,Master,Delhi,IT,Government,88.0,2,No,Female,89863.0,No
+45,23,Bachelor,Mumbai,Operations,Private,70.0,3,No,Male,84963.0,No
+54,29,Bachelor,Mumbai,IT,Startup,80.0,10,No,Female,118752.0,No
+31,7,Master,Chennai,Finance,Government,81.0,8,No,Male,73998.0,Yes
+39,16,Diploma,Bangalore,Marketing,Private,,4,Yes,Male,,No
+55,34,Bachelor,Mumbai,Sales,Startup,78.0,0,No,Female,99993.0,No
+40,16,Master,Hyderabad,Operations,Government,62.0,15,Yes,Female,104214.0,No
+46,22,Master,Mumbai,Marketing,Private,,12,Yes,Male,116844.0,No
+50,27,High School,Chennai,Finance,Government,61.0,12,No,Female,92066.0,No
+51,26,,Delhi,,Government,75.0,2,Yes,Male,77702.0,No
+22,0,Bachelor,Mumbai,Sales,Private,64.0,8,No,Male,54453.0,No
+28,6,Master,Bangalore,,Private,68.0,9,No,Female,70498.0,No
+36,13,High School,Pune,Marketing,Private,76.0,1,No,Female,51942.0,No
+42,18,High School,,,Startup,57.0,11,No,Male,77070.0,No
+54,31,PhD,Hyderabad,Marketing,Startup,50.0,8,No,Male,140639.0,No
+49,25,Diploma,Hyderabad,Marketing,Startup,76.0,10,Yes,Female,92650.0,No
+34,11,Bachelor,Bangalore,Finance,Self-Employed,58.0,6,Yes,Male,69717.0,No
+36,10,Bachelor,Pune,Sales,Startup,67.0,0,Yes,Female,54261.0,No
+36,11,Diploma,Bangalore,,Self-Employed,54.0,10,No,Female,60077.0,No
+35,13,,Bangalore,IT,Government,80.0,6,Yes,Female,54860.0,No
+54,33,Bachelor,Mumbai,Finance,Government,65.0,4,No,Male,104186.0,No
+29,5,Bachelor,Delhi,IT,Self-Employed,79.0,15,No,Female,65164.0,No
+24,0,Diploma,Delhi,IT,Startup,56.0,1,Yes,Male,34643.0,No
+26,5,PhD,Hyderabad,Sales,Government,72.0,12,No,Female,,No
+48,23,Diploma,Delhi,Marketing,Private,79.0,6,No,Male,77946.0,No
+56,35,High School,Chennai,Sales,Startup,69.0,9,Yes,Male,107240.0,No
+50,28,High School,Bangalore,Operations,Government,58.0,4,No,Male,78739.0,No
+40,15,Bachelor,Bangalore,Sales,Private,78.0,14,No,Female,83720.0,No
+52,27,Bachelor,Delhi,Sales,Self-Employed,69.0,7,Yes,Female,111682.0,No
+32,6,Bachelor,Chennai,Finance,Government,70.0,13,No,Male,69201.0,No
+42,21,Diploma,Mumbai,Finance,Startup,,12,Yes,Female,78485.0,No
+41,17,High School,Hyderabad,IT,Startup,62.0,13,Yes,Male,79988.0,No
+52,31,Bachelor,Mumbai,Finance,Government,83.0,15,Yes,Male,,Yes
+31,10,Diploma,Hyderabad,Sales,Private,66.0,7,Yes,Female,49249.0,No
+30,4,Bachelor,Bangalore,Marketing,Self-Employed,60.0,15,Yes,Female,69863.0,No
+33,8,PhD,Pune,HR,Private,78.0,8,No,Female,103837.0,No
+21,0,Diploma,Hyderabad,Marketing,Startup,80.0,15,No,Female,51085.0,No
+45,22,Bachelor,Mumbai,Operations,Government,62.0,12,Yes,Female,,No
+51,27,Master,Chennai,Operations,Government,68.0,10,Yes,Female,114667.0,No
+50,28,High School,Chennai,Operations,Government,72.0,2,No,Female,85093.0,No
+46,23,Bachelor,Pune,Marketing,Startup,88.0,15,Yes,Male,101292.0,Yes
+39,13,PhD,Delhi,Sales,Private,67.0,3,No,Male,102012.0,No
+23,2,Diploma,Bangalore,Finance,Self-Employed,63.0,13,Yes,Male,40736.0,No
+45,23,Bachelor,Chennai,Marketing,Government,75.0,7,No,Female,99059.0,No
+21,0,Master,Bangalore,Operations,Government,97.0,9,No,Female,65769.0,No
+33,9,PhD,Delhi,HR,Startup,84.0,11,No,Female,93718.0,Yes
+46,21,Diploma,Pune,Operations,Private,88.0,9,Yes,Female,79176.0,Yes
+60,34,Diploma,Pune,Operations,Government,61.0,3,Yes,Female,107844.0,No
+44,23,Master,Bangalore,Finance,Startup,74.0,11,No,Male,112220.0,No
+51,28,,Pune,Finance,Private,77.0,14,Yes,Male,145792.0,No
+46,21,PhD,Bangalore,IT,Startup,86.0,14,No,Female,142154.0,Yes
+44,22,High School,Chennai,IT,Self-Employed,73.0,7,Yes,Female,76702.0,No
+28,7,High School,Bangalore,Sales,Private,92.0,4,No,Female,42357.0,No
+55,29,Bachelor,Pune,HR,Startup,86.0,3,No,Female,101566.0,No
+44,20,Diploma,Mumbai,Finance,Private,83.0,11,Yes,Female,81240.0,Yes
+28,4,PhD,Delhi,Operations,Government,70.0,0,Yes,Female,76781.0,No
+57,32,Diploma,Mumbai,Marketing,Government,75.0,4,Yes,Female,94941.0,No
+55,33,,Delhi,Operations,Private,63.0,4,Yes,Female,100196.0,No
+22,1,High School,Mumbai,Operations,Startup,52.0,15,No,Female,47017.0,No
+49,24,Bachelor,Delhi,Operations,Self-Employed,68.0,14,Yes,Male,110295.0,No
+48,24,Bachelor,Pune,Sales,Private,80.0,4,Yes,Male,91611.0,No
+58,35,Bachelor,Chennai,Marketing,Self-Employed,65.0,14,No,Male,122549.0,No
+56,34,Master,Chennai,Sales,Government,52.0,12,No,Male,139441.0,No
+37,15,Bachelor,Pune,Sales,Private,83.0,2,Yes,Male,74551.0,No
+44,19,Master,Delhi,Marketing,Self-Employed,66.0,13,Yes,Female,117074.0,No
+27,5,Bachelor,Mumbai,Operations,Startup,61.0,7,Yes,Female,62627.0,No
+38,14,Bachelor,Hyderabad,Marketing,Private,58.0,8,Yes,Male,74354.0,No
+40,17,PhD,Delhi,HR,Government,60.0,12,Yes,Male,112804.0,No
+54,30,Diploma,Chennai,Finance,Government,58.0,2,Yes,Male,,No
+24,1,Bachelor,Chennai,Operations,Startup,85.0,15,No,Female,54151.0,No
+53,29,High School,Delhi,Finance,Startup,61.0,7,No,Male,82451.0,No
+34,11,Master,Bangalore,Finance,Private,70.0,0,No,Female,69957.0,No
+55,30,Master,Hyderabad,Operations,Self-Employed,93.0,1,No,Male,122265.0,No
+41,16,Bachelor,Chennai,Operations,Startup,82.0,9,Yes,Female,71683.0,Yes
+31,6,Master,Chennai,Operations,Self-Employed,91.0,7,No,Female,78769.0,Yes
+40,18,Master,Bangalore,HR,Private,84.0,3,Yes,Female,94704.0,No
+30,8,Diploma,Bangalore,HR,Government,55.0,2,Yes,Female,50202.0,No
+58,33,Bachelor,Pune,Operations,Self-Employed,59.0,10,Yes,Female,111837.0,No
+40,15,Master,Delhi,Finance,Private,67.0,1,No,Female,76714.0,No
+26,1,Bachelor,,Sales,Private,84.0,14,Yes,Female,,No
+30,6,PhD,Delhi,Finance,Private,64.0,7,No,Female,98772.0,No
+31,8,Bachelor,Chennai,,Self-Employed,71.0,1,No,Male,54603.0,No
+45,19,Diploma,Pune,Marketing,Government,64.0,4,No,Female,74443.0,No
+26,2,Diploma,Pune,,Government,85.0,2,No,Female,22397.0,No
+32,9,PhD,Chennai,HR,Government,78.0,9,Yes,Male,101635.0,No
+60,36,High School,Mumbai,HR,Government,71.0,5,No,Male,108663.0,No
+36,11,PhD,Bangalore,Operations,Startup,72.0,15,Yes,Female,120891.0,No
+50,26,Master,Hyderabad,Marketing,Startup,80.0,5,Yes,Male,111392.0,No
+51,26,,Delhi,Operations,Private,67.0,8,No,Male,121135.0,No
+35,12,Master,Delhi,Sales,Private,91.0,12,No,Male,93453.0,Yes
+44,21,Diploma,Delhi,Operations,Self-Employed,73.0,9,No,Male,87371.0,No
+21,0,PhD,Bangalore,HR,Government,65.0,13,Yes,Female,83386.0,No
+24,0,Diploma,Hyderabad,Sales,Private,91.0,0,Yes,Male,24544.0,No
+60,35,Bachelor,Chennai,HR,Private,88.0,11,Yes,Male,127994.0,Yes
+23,0,Bachelor,Bangalore,Operations,Private,69.0,7,Yes,Female,37771.0,No
+55,29,Diploma,Mumbai,Operations,Startup,75.0,15,Yes,Male,98867.0,No
+50,28,High School,Delhi,HR,Private,67.0,12,No,Female,87199.0,No
+33,12,Diploma,Pune,Finance,Self-Employed,81.0,3,No,Female,58107.0,No
+45,23,Diploma,,Operations,Startup,57.0,8,Yes,Female,77786.0,No
+32,9,Bachelor,Delhi,IT,Self-Employed,87.0,9,No,Female,75346.0,Yes
+31,8,Bachelor,Chennai,IT,Self-Employed,62.0,1,Yes,Female,55704.0,No
+31,9,PhD,Hyderabad,Operations,Startup,63.0,1,Yes,Male,88733.0,No
+44,19,Bachelor,Delhi,Marketing,Government,59.0,11,No,Male,98806.0,No
+44,18,Bachelor,Bangalore,HR,Private,45.0,0,Yes,Female,81565.0,No
+56,33,High School,Pune,Sales,Government,81.0,15,Yes,Male,105047.0,Yes
+49,23,High School,Chennai,IT,Self-Employed,71.0,11,Yes,Female,83628.0,No
+32,7,Master,Mumbai,IT,Government,74.0,15,Yes,Female,91554.0,No
+50,25,Master,Mumbai,,Private,63.0,2,No,Female,113084.0,No
+47,26,Master,Mumbai,Finance,Private,54.0,11,Yes,Male,114628.0,No
+24,0,Master,Mumbai,Finance,Government,77.0,5,No,Male,57338.0,No
+54,33,Master,Bangalore,HR,Self-Employed,79.0,2,Yes,Male,120609.0,No
+59,34,Diploma,Delhi,IT,Private,79.0,1,No,Male,109747.0,No
+22,0,Bachelor,Hyderabad,Finance,Self-Employed,50.0,12,No,Female,41791.0,No
+31,7,Bachelor,Chennai,HR,Self-Employed,74.0,4,No,Female,56517.0,No
+29,4,Master,Hyderabad,IT,Self-Employed,72.0,14,Yes,Male,68772.0,No
+45,21,Master,Mumbai,HR,Self-Employed,78.0,10,Yes,Male,114527.0,No
+50,27,Bachelor,Chennai,IT,Private,85.0,7,Yes,Female,94394.0,Yes
+52,26,Bachelor,Pune,Sales,Self-Employed,67.0,0,Yes,Female,86588.0,No
+44,21,Master,Delhi,Sales,Private,64.0,9,Yes,Female,113523.0,No
+56,31,Diploma,Pune,Marketing,Private,68.0,4,Yes,Female,100228.0,No
+42,19,Bachelor,Mumbai,,Startup,68.0,4,No,Female,88617.0,No
+59,37,Master,Bangalore,Marketing,Self-Employed,71.0,5,No,Female,146855.0,No
+53,27,Bachelor,Hyderabad,Finance,Startup,76.0,3,No,Female,88873.0,No
+37,12,PhD,Hyderabad,,Private,61.0,15,Yes,Female,109242.0,No
+36,10,High School,Delhi,HR,Private,60.0,13,Yes,Female,64043.0,No
+51,25,Master,Pune,IT,Government,,6,No,Female,119418.0,No
+32,7,Bachelor,Bangalore,Marketing,Self-Employed,61.0,8,No,Male,58077.0,No
+40,17,Diploma,Bangalore,Operations,Government,50.0,15,No,Female,81829.0,No
+38,13,Diploma,Pune,Marketing,Startup,81.0,11,Yes,Female,,Yes
+26,2,Diploma,Pune,Finance,Startup,64.0,6,Yes,Female,45016.0,No
+29,3,High School,Hyderabad,HR,Government,,7,Yes,Male,28283.0,No
+51,29,High School,Delhi,Marketing,Government,80.0,13,No,Female,95935.0,No
+39,13,Diploma,Delhi,IT,Government,53.0,1,Yes,Female,50560.0,No
+23,0,PhD,Chennai,HR,Self-Employed,,1,Yes,Female,79810.0,No
+42,16,Diploma,Hyderabad,Marketing,Startup,76.0,14,No,Male,70691.0,No
+50,24,Bachelor,Mumbai,IT,Self-Employed,67.0,9,Yes,Male,101887.0,No
+53,29,Diploma,Pune,IT,Government,85.0,7,Yes,Female,99768.0,Yes
+38,15,PhD,Hyderabad,Operations,Private,70.0,8,No,Male,104635.0,No
+50,26,Diploma,Pune,Marketing,Self-Employed,65.0,9,No,Male,90180.0,No
+51,25,High School,Hyderabad,Finance,Startup,56.0,15,Yes,Male,102523.0,No
+26,1,Bachelor,Pune,Finance,Private,77.0,6,Yes,Male,45151.0,No
+49,27,High School,Pune,Marketing,Startup,69.0,2,No,Male,86658.0,No
+47,26,Bachelor,Hyderabad,Sales,Self-Employed,69.0,0,Yes,Male,83684.0,No
+25,4,Bachelor,Delhi,Sales,Private,60.0,9,No,Male,49037.0,No
+47,23,Bachelor,Chennai,Sales,Startup,99.0,4,No,Male,86248.0,No
+46,20,Bachelor,Mumbai,IT,Private,86.0,9,No,Female,97230.0,Yes
+35,12,Diploma,Mumbai,Finance,Government,89.0,3,Yes,Female,45512.0,No
+25,4,High School,Chennai,Marketing,Private,64.0,7,Yes,Female,41583.0,No
+34,13,Master,Mumbai,Marketing,Self-Employed,74.0,10,No,Male,90488.0,No
+54,31,Diploma,Bangalore,IT,Government,98.0,13,No,Male,110085.0,Yes
+45,22,Master,Pune,Sales,Startup,78.0,15,Yes,Male,116254.0,No
+30,9,Master,Hyderabad,Sales,Startup,81.0,4,No,Male,,No
+26,3,PhD,Delhi,Marketing,Government,83.0,1,Yes,Male,87053.0,No
+56,34,Diploma,Bangalore,Finance,Private,75.0,6,Yes,Male,112693.0,No
+59,35,Master,Mumbai,Marketing,Self-Employed,73.0,11,No,Female,141984.0,No
+52,26,Bachelor,Chennai,Finance,Government,60.0,11,No,Female,96898.0,No
+35,14,Master,Bangalore,,Startup,69.0,7,No,Male,95561.0,No
+42,18,Diploma,,Operations,Startup,79.0,14,Yes,Female,76946.0,No
+55,30,Bachelor,Pune,IT,Private,74.0,1,Yes,Female,96705.0,No
+35,13,High School,Delhi,HR,Startup,68.0,11,Yes,Female,406716.0,No
+55,34,Bachelor,Delhi,Marketing,Self-Employed,62.0,13,Yes,Male,118556.0,No
+36,11,High School,Bangalore,Finance,Self-Employed,69.0,12,Yes,Female,61904.0,No
+36,14,,Bangalore,Operations,Private,58.0,1,Yes,Female,104427.0,No
+51,30,High School,Pune,HR,Private,,15,No,Female,112541.0,No
+27,6,Master,,HR,Startup,68.0,8,Yes,Male,438630.0,No
+34,8,Bachelor,Chennai,IT,Self-Employed,99.0,5,Yes,Female,66313.0,No
+29,3,Master,Pune,IT,Self-Employed,84.0,2,No,Female,358164.0,No
+38,14,Master,Chennai,HR,Self-Employed,76.0,12,No,Male,104397.0,No
+26,3,Master,Mumbai,Operations,Private,78.0,4,No,Female,63219.0,No
+21,0,PhD,Bangalore,Finance,Private,75.0,4,Yes,Male,78922.0,No
+56,35,Bachelor,Delhi,IT,Self-Employed,56.0,10,No,Male,123563.0,No
+26,1,Master,Mumbai,Marketing,Government,66.0,12,Yes,Male,65411.0,No
+52,30,High School,Chennai,Finance,Startup,65.0,11,No,Male,105446.0,No
+33,11,Bachelor,Bangalore,IT,Startup,91.0,10,No,Female,75625.0,Yes
+59,36,High School,Hyderabad,Operations,Government,64.0,12,No,Female,119689.0,No
+36,13,Diploma,Chennai,Finance,Private,72.0,6,Yes,Male,,No
+34,11,Bachelor,Pune,IT,Startup,68.0,9,Yes,Female,65050.0,No
+45,20,High School,Chennai,Marketing,Startup,66.0,13,Yes,Female,87193.0,No
+26,4,High School,Pune,Operations,Self-Employed,80.0,12,No,Female,220026.0,No
+37,11,Diploma,Hyderabad,Marketing,Government,86.0,14,No,Female,71173.0,Yes
+58,36,Bachelor,Bangalore,IT,Startup,81.0,2,Yes,Male,118014.0,No
+50,25,Master,Chennai,Finance,Startup,79.0,3,No,Female,109050.0,No
+23,2,Master,Delhi,Finance,Private,68.0,7,Yes,Male,63645.0,No
+50,26,Diploma,Pune,HR,Government,65.0,13,No,Male,94265.0,No
+48,22,,Mumbai,HR,Self-Employed,72.0,2,Yes,Male,87786.0,No
+50,24,High School,Chennai,Marketing,Self-Employed,50.0,12,No,Male,88600.0,No
+50,24,Bachelor,Pune,Finance,Private,67.0,7,No,Male,92198.0,No
+30,6,Bachelor,Hyderabad,HR,Startup,,13,Yes,Female,71408.0,No
+32,8,Bachelor,Bangalore,HR,Government,66.0,1,No,Male,59679.0,No
+45,20,PhD,Pune,Sales,Startup,84.0,15,No,Female,138013.0,Yes
+57,35,High School,Bangalore,IT,Self-Employed,73.0,14,No,Male,122566.0,No
+55,32,Master,Hyderabad,IT,Startup,81.0,6,No,Male,125711.0,Yes
+23,0,Bachelor,Delhi,,Private,73.0,11,No,Male,42762.0,No
+34,9,Master,Bangalore,Marketing,Self-Employed,63.0,5,No,Female,75280.0,No
+53,27,PhD,Delhi,HR,Startup,100.0,4,Yes,Male,128992.0,No
+36,10,Master,Chennai,Sales,Government,53.0,8,No,Female,86410.0,No
+26,0,Bachelor,Bangalore,Operations,Self-Employed,58.0,0,Yes,Female,36738.0,No
+55,31,Bachelor,Mumbai,Sales,Self-Employed,75.0,10,No,Female,123134.0,No
+57,34,Master,Pune,IT,Private,89.0,14,Yes,Male,136776.0,Yes
+21,0,PhD,Mumbai,Operations,Government,84.0,9,Yes,Female,73858.0,No
+37,11,,Pune,HR,Private,63.0,7,No,Male,274308.0,No
+51,26,High School,Mumbai,Marketing,Startup,78.0,0,Yes,Female,71151.0,No
+48,24,Bachelor,Delhi,HR,Startup,90.0,3,No,Female,91205.0,No
+29,3,Bachelor,Mumbai,IT,Private,83.0,5,No,Female,44581.0,No
+30,5,PhD,Pune,Sales,Government,76.0,3,No,Female,88670.0,No
+29,3,Diploma,Delhi,HR,Self-Employed,74.0,0,No,Male,38565.0,No
+33,10,,Pune,IT,Government,66.0,15,Yes,Male,91832.0,No
+29,4,Bachelor,Chennai,Finance,Government,72.0,15,Yes,Male,71046.0,No
+37,16,Diploma,,Marketing,Self-Employed,62.0,13,No,Female,68500.0,No
+55,32,Bachelor,,Finance,Private,61.0,6,Yes,Female,115403.0,No
+25,1,Diploma,Pune,HR,Private,72.0,3,No,Male,30934.0,No
+32,6,High School,Mumbai,Operations,Private,99.0,5,No,Female,46337.0,No
